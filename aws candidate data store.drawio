@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T15:58:19.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="eRhr585GrCa0CGz0M_ZI" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T16:00:20.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="U9XON3DQife3sw5qAnTO" version="16.5.6" type="github">
   <diagram id="cHYiameoMj4if7qs-uri" name="Page-1">
     <mxGraphModel dx="1901" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -299,6 +299,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lf8B2ZxuV7p_VkPOGl_I-93" target="lf8B2ZxuV7p_VkPOGl_I-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lf8B2ZxuV7p_VkPOGl_I-93" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="400.5" width="70" height="70" as="geometry" />
         </mxCell>
@@ -310,6 +313,18 @@
         </mxCell>
         <mxCell id="lf8B2ZxuV7p_VkPOGl_I-100" value="S3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-510" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-101" value="CloudSearch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="270.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-102" value="Timestream" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="420.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-103" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="550.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-105" value="Large Data for Analysis?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="545" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
