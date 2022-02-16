@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T06:37:13.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VYj3b5cmAIs_VZU_TCb7" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T06:39:24.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="tyclLjseAQYcjUlk8rIc" version="16.5.6" type="github">
   <diagram id="cHYiameoMj4if7qs-uri" name="Page-1">
     <mxGraphModel dx="1796" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-14" value="MySQL" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;" parent="1" vertex="1">
-          <mxGeometry x="340" y="95" width="70" height="70" as="geometry" />
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-14" value="&lt;font style=&quot;font-size: 8px&quot;&gt;MySQL&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;" parent="1" vertex="1">
+          <mxGeometry x="340" y="104" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lf8B2ZxuV7p_VkPOGl_I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lf8B2ZxuV7p_VkPOGl_I-15" target="lf8B2ZxuV7p_VkPOGl_I-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -77,8 +77,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-15" value="PostgreSQL" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;" parent="1" vertex="1">
-          <mxGeometry x="340" y="220" width="70" height="70" as="geometry" />
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-15" value="&lt;font style=&quot;font-size: 8px&quot;&gt;PostgreSQL&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;" parent="1" vertex="1">
+          <mxGeometry x="340" y="220" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lf8B2ZxuV7p_VkPOGl_I-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lf8B2ZxuV7p_VkPOGl_I-20" edge="1" target="lf8B2ZxuV7p_VkPOGl_I-12">
           <mxGeometry relative="1" as="geometry">
@@ -98,8 +98,8 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-20" value="MariaDB" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;" parent="1" vertex="1">
-          <mxGeometry x="340" y="360" width="70" height="70" as="geometry" />
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-20" value="MariaDB" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="340" y="360" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lf8B2ZxuV7p_VkPOGl_I-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lf8B2ZxuV7p_VkPOGl_I-25" target="lf8B2ZxuV7p_VkPOGl_I-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,11 +117,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-25" value="Cassandra" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;" parent="1" vertex="1">
-          <mxGeometry x="340" y="510" width="70" height="70" as="geometry" />
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-25" value="Cassandra" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="340" y="510" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lf8B2ZxuV7p_VkPOGl_I-27" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;" parent="1" vertex="1">
-          <mxGeometry x="550" y="515.5" width="49" height="49" as="geometry" />
+          <mxGeometry x="551" y="510.5" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lf8B2ZxuV7p_VkPOGl_I-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lf8B2ZxuV7p_VkPOGl_I-31" target="lf8B2ZxuV7p_VkPOGl_I-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,8 +131,8 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-31" value="MongoDB" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;" parent="1" vertex="1">
-          <mxGeometry x="340" y="660" width="70" height="70" as="geometry" />
+        <mxCell id="lf8B2ZxuV7p_VkPOGl_I-31" value="MongoDB" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC66;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="340" y="660" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lf8B2ZxuV7p_VkPOGl_I-36" value="RDS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="115" width="60" height="30" as="geometry" />
