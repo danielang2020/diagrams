@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T03:54:22.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="nFwDTpJGbqTaVThljOEJ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T04:59:13.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="75jy-QYcO1d-OO6Nwg7n" version="16.6.4" type="github">
   <diagram id="zB4gUdR2zIH-oP0iuWOR" name="Page-1">
     <mxGraphModel dx="1796" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,10 +48,10 @@
             <mxPoint x="296" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0bTzNeAgSLYGY5vBNHg-5" value="Position Cache" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="E0bTzNeAgSLYGY5vBNHg-5" value="Isolated Position Cache" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="136" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0bTzNeAgSLYGY5vBNHg-7" value="Position Store" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="E0bTzNeAgSLYGY5vBNHg-7" value="Isolated Position Store" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0bTzNeAgSLYGY5vBNHg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E0bTzNeAgSLYGY5vBNHg-9" target="E0bTzNeAgSLYGY5vBNHg-19" edge="1">
@@ -105,7 +105,7 @@
         <mxCell id="jBzAEqhxDZ8FbLMviTY9-10" value="RTC Distributor" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="216" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jBzAEqhxDZ8FbLMviTY9-26" value="1、存储与计算单元分离&lt;br&gt;2、启动计算时间比计算结束重要&lt;br&gt;3、短时间内，计算顺序乱，可以忽略&lt;br&gt;4、逐仓和全仓都是按照报价顺序进行计算，只是保证金的范围不同" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jBzAEqhxDZ8FbLMviTY9-26" value="1、存储与计算单元分离&lt;br&gt;2、启动计算时间比计算结束重要&lt;br&gt;3、短时间内，计算顺序乱，可以忽略&lt;br&gt;4、逐仓和全仓都是按照报价顺序进行计算，只是保证金的范围不同，导致发送强平指令发送时机" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="590" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
