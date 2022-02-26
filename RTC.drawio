@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T03:10:51.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="8PYXqXwOWz0UyD0kS-RB" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T03:15:20.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="T6kIdiMZS3upUeUghBR1" version="16.6.3" type="github">
   <diagram id="zB4gUdR2zIH-oP0iuWOR" name="Page-1">
     <mxGraphModel dx="1796" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,13 +35,13 @@
         <mxCell id="jBzAEqhxDZ8FbLMviTY9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0bTzNeAgSLYGY5vBNHg-2" target="E0bTzNeAgSLYGY5vBNHg-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jBzAEqhxDZ8FbLMviTY9-23" value="quote with symbol position" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jBzAEqhxDZ8FbLMviTY9-22">
+        <mxCell id="jBzAEqhxDZ8FbLMviTY9-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; quote with symbol position" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jBzAEqhxDZ8FbLMviTY9-22">
           <mxGeometry x="-0.7652" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E0bTzNeAgSLYGY5vBNHg-2" value="RTC Distributor" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="216" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="216" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0bTzNeAgSLYGY5vBNHg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E0bTzNeAgSLYGY5vBNHg-5" target="E0bTzNeAgSLYGY5vBNHg-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -52,7 +52,7 @@
           <mxGeometry x="136" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0bTzNeAgSLYGY5vBNHg-7" value="Position Store" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="336" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0bTzNeAgSLYGY5vBNHg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E0bTzNeAgSLYGY5vBNHg-9" target="E0bTzNeAgSLYGY5vBNHg-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -97,13 +97,16 @@
         <mxCell id="jBzAEqhxDZ8FbLMviTY9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jBzAEqhxDZ8FbLMviTY9-10" target="E0bTzNeAgSLYGY5vBNHg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jBzAEqhxDZ8FbLMviTY9-24" value="quote with symbol position" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jBzAEqhxDZ8FbLMviTY9-21">
+        <mxCell id="jBzAEqhxDZ8FbLMviTY9-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; quote with symbol position" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jBzAEqhxDZ8FbLMviTY9-21">
           <mxGeometry x="-0.7519" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jBzAEqhxDZ8FbLMviTY9-10" value="RTC Distributor" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="216" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jBzAEqhxDZ8FbLMviTY9-26" value="1、存储与计算单元分离&lt;br&gt;2、启动计算时间比计算结束重要&lt;br&gt;3、短时间内，计算顺序乱，可以忽略" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="590" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
