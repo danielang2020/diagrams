@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T03:42:43.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="XInVzuJIl0Q1bmbj7oiW" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T03:44:10.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="IrIycjozT-s2HtJQopoa" version="16.6.4" type="github">
   <diagram id="zB4gUdR2zIH-oP0iuWOR" name="Page-1">
     <mxGraphModel dx="2646" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         <mxCell id="E0bTzNeAgSLYGY5vBNHg-16" value="Batch HTC Unit" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0bTzNeAgSLYGY5vBNHg-19" value="Clearing" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="E0bTzNeAgSLYGY5vBNHg-19" value="Clearing SQS Topic" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBzAEqhxDZ8FbLMviTY9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jBzAEqhxDZ8FbLMviTY9-10" target="E0bTzNeAgSLYGY5vBNHg-5" edge="1">
@@ -432,6 +432,17 @@
         </mxCell>
         <mxCell id="O9WNXpPvgC3GTioKjLcZ-44" value="Web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-580" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O9WNXpPvgC3GTioKjLcZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O9WNXpPvgC3GTioKjLcZ-47" target="E0bTzNeAgSLYGY5vBNHg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O9WNXpPvgC3GTioKjLcZ-49" value="polling" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O9WNXpPvgC3GTioKjLcZ-48">
+          <mxGeometry x="-0.0171" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O9WNXpPvgC3GTioKjLcZ-47" value="Clearing Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
