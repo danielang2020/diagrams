@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T04:14:31.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="wA6VKUcmfBiJk6Y5W7Sy" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T07:04:35.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="uxwuh8fSPQy3VDoeztP2" version="16.6.5" type="github">
   <diagram id="zB4gUdR2zIH-oP0iuWOR" name="Page-1">
-    <mxGraphModel dx="2646" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2406" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,11 +40,16 @@
             <mxPoint x="296" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0bTzNeAgSLYGY5vBNHg-5" value="Isolated Position ElastiCache" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="136" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="KXRyUa-7dGwwLhRezMi5-1" value="read-through" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E0bTzNeAgSLYGY5vBNHg-8">
+          <mxGeometry x="-0.4324" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0bTzNeAgSLYGY5vBNHg-5" value="Isolated Position DynamoDB Accelerator" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0bTzNeAgSLYGY5vBNHg-7" value="Isolated Position DynamoDB" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0bTzNeAgSLYGY5vBNHg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E0bTzNeAgSLYGY5vBNHg-9" target="E0bTzNeAgSLYGY5vBNHg-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -383,10 +388,10 @@
         <mxCell id="O9WNXpPvgC3GTioKjLcZ-19" value="Market" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-670" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TmA1IfoLScCvTYepSHOZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9WNXpPvgC3GTioKjLcZ-21" target="TmA1IfoLScCvTYepSHOZ-1">
+        <mxCell id="TmA1IfoLScCvTYepSHOZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O9WNXpPvgC3GTioKjLcZ-21" target="TmA1IfoLScCvTYepSHOZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TmA1IfoLScCvTYepSHOZ-3" value="offline backup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TmA1IfoLScCvTYepSHOZ-2">
+        <mxCell id="TmA1IfoLScCvTYepSHOZ-3" value="offline backup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TmA1IfoLScCvTYepSHOZ-2" vertex="1" connectable="0">
           <mxGeometry x="-0.075" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -452,7 +457,7 @@
         <mxCell id="O9WNXpPvgC3GTioKjLcZ-47" value="Clearing Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1215" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TmA1IfoLScCvTYepSHOZ-1" value="S3 Glacier" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TmA1IfoLScCvTYepSHOZ-1" value="S3 Glacier" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-830" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
