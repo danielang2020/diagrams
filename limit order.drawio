@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T23:02:20.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.2.0" etag="3r95rR3kWwfBKWxkwx0g" type="github"><diagram id="hkJarP781tIcaMohVjns">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-01T23:10:01.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="1YkbvSFUX4IAHl_urev-" version="18.2.0" type="github">
+  <diagram id="hkJarP781tIcaMohVjns" name="Page-1">
+    <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-1" value="Market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-2" value="Market Proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-3" value="Orderbook Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="560" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-4" value="Orderbook Combo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-5" value="Engine Route" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Na0AyFwbGcKAqXZgBrPF-5" target="Na0AyFwbGcKAqXZgBrPF-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-7" value="市价单成交结果&lt;br&gt;限价单成交请求（GTC）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Na0AyFwbGcKAqXZgBrPF-6">
+          <mxGeometry x="-0.1514" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Na0AyFwbGcKAqXZgBrPF-3" target="Na0AyFwbGcKAqXZgBrPF-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-9" value="限价单Maker成交信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Na0AyFwbGcKAqXZgBrPF-8">
+          <mxGeometry x="-0.0904" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Na0AyFwbGcKAqXZgBrPF-1" target="Na0AyFwbGcKAqXZgBrPF-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Na0AyFwbGcKAqXZgBrPF-2" target="Na0AyFwbGcKAqXZgBrPF-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-12" value="根据实时聚合现货成交信息价格和无限深度下下限价单（FOK)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Na0AyFwbGcKAqXZgBrPF-11">
+          <mxGeometry x="-0.2647" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Na0AyFwbGcKAqXZgBrPF-3" target="Na0AyFwbGcKAqXZgBrPF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-14" value="推送市价/限价单成交结果和挂单盘口信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Na0AyFwbGcKAqXZgBrPF-13">
+          <mxGeometry x="0.1261" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Na0AyFwbGcKAqXZgBrPF-15" value="推送聚合现货盘口（包括限价单）和成交信息" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Na0AyFwbGcKAqXZgBrPF-4" target="Na0AyFwbGcKAqXZgBrPF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
