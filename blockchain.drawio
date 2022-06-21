@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T09:40:51.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vz539Jim6pzFnkAUhBD9" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T10:03:46.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="LODw6Y5URkHBjvBzmMVg" version="20.0.1" type="github">
   <diagram id="pOZY-7x0SCGeBA-YFEKE" name="Page-1">
-    <mxGraphModel dx="1796" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,8 @@
         <mxCell id="CZe5a8nOY1pIYSsRaiwz-3" value="&lt;h1&gt;&lt;font face=&quot;base&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Automated Market Makers&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Instead of traditional markets of buyers and sellers, many decentralized finance (DeFi) platforms use automated market makers (AMMs), which allow digital assets to be traded in an automatic and permissionless manner through the use of liquidity pools.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-155" y="960" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="QGSDEHcPcsEFc_yuDe8H-1" value="https://101blockchains.com/staking-vs-yield-farming-vs-liquidity-mining/" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="20" width="420" height="30" as="geometry" />
+        <mxCell id="QGSDEHcPcsEFc_yuDe8H-1" value="https://101blockchains.com/staking-vs-yield-farming-vs-liquidity-mining/&lt;br&gt;https://phemex.com/academy/yield-farming-vs-staking-vs-liquidity-mining&lt;br&gt;https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="20" width="490" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
