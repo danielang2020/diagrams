@@ -1,1 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T10:08:25.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.3" etag="LAFbTyz7CQsv3rjZ5K-3" type="github"><diagram id="I-bP2WtusEwd7y-rCcB1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-29T08:41:15.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rrdYywRshsxFhjJyhUdm" version="20.0.3" type="github">
+  <diagram id="I-bP2WtusEwd7y-rCcB1" name="Page-1">
+    <mxGraphModel dx="2742" dy="2278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-1" target="OVH-ZCHuxXaoSKUXt1rp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-1" target="OVH-ZCHuxXaoSKUXt1rp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-1" target="OVH-ZCHuxXaoSKUXt1rp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-1" target="OVH-ZCHuxXaoSKUXt1rp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-1" target="OVH-ZCHuxXaoSKUXt1rp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-1" target="OVH-ZCHuxXaoSKUXt1rp-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-1" value="用户开仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-2" target="OVH-ZCHuxXaoSKUXt1rp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-2" target="OVH-ZCHuxXaoSKUXt1rp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-2" value="无持仓 + 开长仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-4" target="OVH-ZCHuxXaoSKUXt1rp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-4" value="可用 &amp;gt;= 市值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-6" value="无融资开长仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-8" target="OVH-ZCHuxXaoSKUXt1rp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-8" value="可用 &amp;lt; 市值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-10" value="融资开长仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-12" target="OVH-ZCHuxXaoSKUXt1rp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-12" value="无持仓 + 开短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-14" value="融券开短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-16" target="OVH-ZCHuxXaoSKUXt1rp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-16" target="OVH-ZCHuxXaoSKUXt1rp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-16" value="持长仓 + 开长仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-18" target="OVH-ZCHuxXaoSKUXt1rp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-18" value="可用 &amp;gt;= 市值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-20" value="无融资开长仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-23" target="OVH-ZCHuxXaoSKUXt1rp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-23" value="可用 &amp;lt; 市值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-24" value="融资开长仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-26" target="OVH-ZCHuxXaoSKUXt1rp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-26" target="OVH-ZCHuxXaoSKUXt1rp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-26" value="持长仓 + 开短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-28" target="OVH-ZCHuxXaoSKUXt1rp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-28" value="长仓 &amp;gt;= 短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-30" value="平短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-32" target="OVH-ZCHuxXaoSKUXt1rp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-32" value="长仓 &amp;lt; 短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-34" target="OVH-ZCHuxXaoSKUXt1rp-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-34" value="平长仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-36" value="融券开(短仓 - 长仓)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-38" target="OVH-ZCHuxXaoSKUXt1rp-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-38" target="OVH-ZCHuxXaoSKUXt1rp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-38" value="持短仓 + 开长仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-40" target="OVH-ZCHuxXaoSKUXt1rp-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-40" value="长仓 &amp;gt;= 短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-42" target="OVH-ZCHuxXaoSKUXt1rp-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-42" target="OVH-ZCHuxXaoSKUXt1rp-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-42" value="平短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-45" target="OVH-ZCHuxXaoSKUXt1rp-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-45" value="可用 &amp;gt;= 市值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-46" value="无融资开(长仓 - 短仓)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-48" target="OVH-ZCHuxXaoSKUXt1rp-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-48" value="可用 &amp;lt; 市值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-49" value="融资开(长仓 - 短仓)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-52" target="OVH-ZCHuxXaoSKUXt1rp-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-52" value="长仓 &amp;lt; 短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-55" target="OVH-ZCHuxXaoSKUXt1rp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-55" value="平长仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-56" value="融券开(短仓-长仓)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVH-ZCHuxXaoSKUXt1rp-58" target="OVH-ZCHuxXaoSKUXt1rp-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-58" value="持短仓 + 开短仓　" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVH-ZCHuxXaoSKUXt1rp-60" value="融券开短仓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
