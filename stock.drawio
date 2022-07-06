@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T07:44:19.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="urthaquXDNyo8WMKOg8_" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T08:28:41.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CQHxohkzb2jyYbvp0Ruo" version="20.0.4" type="github">
   <diagram id="I-bP2WtusEwd7y-rCcB1" name="Page-1">
     <mxGraphModel dx="2847" dy="-259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -503,22 +503,22 @@
         <mxCell id="MsOYUmQ6BW4a-f-_KpL2-188" value="1、账户冻结（市值 + 手续费）" style="whiteSpace=wrap;html=1;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
           <mxGeometry x="60" y="87.5" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-203" value="1、账户入账金额（平仓数量 * 平仓价格）&lt;br&gt;2、账户自动还款（负债 &amp;gt; 平仓数量 * 平仓价格 ? 平仓数量 * 平仓价格 : 负债）&lt;br&gt;3、公司入账金额（负债 &amp;gt; 平仓数量 * 平仓价格 ? 平仓数量 * 平仓价格 : 负债）&lt;br&gt;4、账户出账金额（手续费）&lt;br&gt;5、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
+        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-203" value="1、账户入账金额（短仓数量 * 平仓价格）&lt;br&gt;2、账户自动还款（负债 &amp;gt; 短仓数量 * 平仓价格 ? 短仓数量 * 平仓价格 : 负债）&lt;br&gt;3、公司入账金额（负债 &amp;gt; 短仓数量 * 平仓价格 ? 短仓数量 * 平仓价格 : 负债）&lt;br&gt;4、账户出账金额（手续费）&lt;br&gt;5、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
           <mxGeometry x="20" y="600" width="450" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-206" value="1、账户入账金额（平仓数量 * 平仓价格）&lt;br&gt;2、账户出账金额（手续费）&lt;br&gt;3、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
+        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-206" value="1、账户入账金额（短仓数量 * 平仓价格）&lt;br&gt;2、账户出账金额（手续费）&lt;br&gt;3、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
           <mxGeometry x="20" y="480" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-214" value="1、账户入账金额（平仓数量 * 平仓价格）&lt;br&gt;2、账户出账金额（手续费）&lt;br&gt;3、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
+        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-214" value="1、账户入账金额（长仓数量 * 平仓价格）&lt;br&gt;2、账户出账金额（手续费）&lt;br&gt;3、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
           <mxGeometry x="20" y="745" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-217" value="1、账户入账金额（平仓数量 * 平仓价格）&lt;br&gt;2、账户自动还款（负债 &amp;gt; 平仓数量 * 平仓价格 ? 平仓数量 * 平仓价格 : 负债）&lt;br&gt;3、公司入账金额（负债 &amp;gt; 平仓数量 * 平仓价格 ? 平仓数量 * 平仓价格 : 负债）&lt;br&gt;4、账户出账金额（手续费）&lt;br&gt;5、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
+        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-217" value="1、账户入账金额（长仓数量 * 平仓价格）&lt;br&gt;2、账户自动还款（负债 &amp;gt; 长仓数量 * 平仓价格 ? 长仓数量 * 平仓价格 : 负债）&lt;br&gt;3、公司入账金额（负债 &amp;gt; 长仓数量 * 平仓价格 ? 长仓数量 * 平仓价格 : 负债）&lt;br&gt;4、账户出账金额（手续费）&lt;br&gt;5、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
           <mxGeometry x="15" y="880" width="450" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-227" value="&lt;span style=&quot;&quot;&gt;1、账户入账金额（平仓数量 * 平仓价格）&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2、账户出账金额（手续费）&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;3、公司入账金额（手续费）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=top;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
+        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-227" value="&lt;span style=&quot;&quot;&gt;1、账户入账金额（长仓数量 * 平仓价格）&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2、账户出账金额（手续费）&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;3、公司入账金额（手续费）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=top;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
           <mxGeometry x="20" y="1110" width="230" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-229" value="1、账户入账金额（平仓数量 * 平仓价格）&lt;br&gt;2、账户自动还款（负债 &amp;gt; 平仓数量 * 平仓价格 ? 平仓数量 * 平仓价格 : 负债）&lt;br&gt;3、公司入账金额（负债 &amp;gt; 平仓数量 * 平仓价格 ? 平仓数量 * 平仓价格 : 负债）&lt;br&gt;4、账户出账金额（手续费）&lt;br&gt;5、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
+        <mxCell id="MsOYUmQ6BW4a-f-_KpL2-229" value="1、账户入账金额（长仓数量 * 平仓价格）&lt;br&gt;2、账户自动还款（负债 &amp;gt; 长仓数量 * 长仓价格 ? 长仓数量 * 平仓价格 : 负债）&lt;br&gt;3、公司入账金额（负债 &amp;gt; 长仓数量 * 长仓价格 ? 长仓数量 * 平仓价格 : 负债）&lt;br&gt;4、账户出账金额（手续费）&lt;br&gt;5、公司入账金额（手续费）" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
           <mxGeometry x="20" y="1260" width="450" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MsOYUmQ6BW4a-f-_KpL2-233" value="1、账户入账金额（市值）&lt;br&gt;2、账户担保品冻结（市值）" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="MsOYUmQ6BW4a-f-_KpL2-117">
